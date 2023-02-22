@@ -1,6 +1,6 @@
 {
   "name": "react-zoom-pan-pinch",
-  "version": "1.6.1",
+  "version": "1.6.3",
   "description": "Zoom and pan html elements in easy way",
   "author": "prc5",
   "license": "MIT",
@@ -25,8 +25,8 @@
   },
   "peerDependencies": {
     "prop-types": "^15.5.4",
-    "react": "^15.0.0 || ^16.0.0",
-    "react-dom": "^15.0.0 || ^16.0.0"
+    "react": ">=16.8.0",
+    "react-dom": ">=17.0.2"
   },
   "devDependencies": {
     "@babel/core": "^7.0.0",
